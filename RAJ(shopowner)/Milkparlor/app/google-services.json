@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "552061064697",
+    "firebase_url": "https://milkparlor-90784.firebaseio.com",
+    "project_id": "milkparlor-90784",
+    "storage_bucket": "milkparlor-90784.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552061064697:android:5392a7d52e2df31d",
+        "android_client_info": {
+          "package_name": "com.example.admin.milkparlor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552061064697-pt3bpej8ccj2rogijuegqkk99cclfp3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCVr-OQ6x8iG45jPpfUqwSgIPMILZCSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552061064697:android:16e6b80d568649e7",
+        "android_client_info": {
+          "package_name": "com.example.customer.milkparlor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552061064697-pt3bpej8ccj2rogijuegqkk99cclfp3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCVr-OQ6x8iG45jPpfUqwSgIPMILZCSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552061064697:android:d89d31ed97be6ab9",
+        "android_client_info": {
+          "package_name": "com.example.deleveryboy.milkparlor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552061064697-pt3bpej8ccj2rogijuegqkk99cclfp3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCVr-OQ6x8iG45jPpfUqwSgIPMILZCSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552061064697:android:1c68c58a48aada33",
+        "android_client_info": {
+          "package_name": "com.example.shopowner.milkparlor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552061064697-pt3bpej8ccj2rogijuegqkk99cclfp3n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTCVr-OQ6x8iG45jPpfUqwSgIPMILZCSQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

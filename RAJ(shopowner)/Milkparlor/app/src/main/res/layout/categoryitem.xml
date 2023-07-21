@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.CardView
+        app:cardCornerRadius="20dp"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:orientation="horizontal">
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="10dp">
+
+                <ImageView
+                    android:layout_width="70dp"
+                    android:layout_height="70dp"
+                    android:id="@+id/categoryImage"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="10dp">
+            <TextView
+                android:id="@+id/tvCategoryName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:text="Category Name"
+                />
+
+            <TextView
+                android:id="@+id/tvPrice"
+                android:layout_below="@+id/tvCategoryName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:text="Price"/>
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.75">
+                <ImageView
+                    android:id="@+id/btncategoryupdate"
+                    android:layout_width="20dp"
+                    android:layout_height="20dp"
+                    android:src="@drawable/edit"
+                    android:layout_marginRight="15dp"
+                    android:layout_toLeftOf="@+id/btncategorydelete"
+                    android:maxWidth="20dp"
+                    />
+
+            <ImageView
+                android:id="@+id/btncategorydelete"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:src="@drawable/delete"
+                android:layout_alignParentRight="true"
+                android:maxWidth="20dp"
+                />
+            </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </android.support.v7.widget.CardView>
+
+
+</android.support.constraint.ConstraintLayout>

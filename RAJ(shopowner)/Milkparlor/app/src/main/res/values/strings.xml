@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Milk parlor</string>
+    <string name="title_activity_dashboard_activity">dashboard_activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dashboard">Your Orders</string>
+    <string name="title_activity_aboutus">Terms and Conditions</string>
+    <string name="large_text">
+
+
+        "Welcome to Milk Parlor!!\n\n"
+        "These Terms of Use govern your use of Milk Parlor and provide informaion about the Milk Parlor service, outlined below. When you create a Milk parlor account or use Milk Parlor, you agree these terms.\n\n\n"
+
+        "TERMS AND CONDITIONS\n\n"
+        "•	We agree to provide you with the milk Parlor Service.\n\n"
+        "•	You have compulsatory provide fresh products.\n\n"
+        "•	You can add milk products which are available in your stock.\n\n"
+        "•	You have compulsatory ready your order in 30 minuts.\n\n"
+        "•	you will get payment end of the month.\n\n"
+
+    </string>
+    <string name="title_activity_contectus">ContectusActivity</string>
+</resources>
